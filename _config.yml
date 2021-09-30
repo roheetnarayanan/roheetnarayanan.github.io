@@ -2,3 +2,7 @@ theme: jekyll-theme-slate
 title: Roheet N Rajendran
 github:
   repository_url: https://github.com/roheetnarayanan
+  
+layout: page
+title: "Certifications"
+permalink: /Certifications.md/
