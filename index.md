@@ -25,7 +25,7 @@ I'm Roheet. I am a Data Engineering Graduate Student at Otto-von-Guericke Univer
 ## Site Map
 1. [Repositories](https://roheetnarayanan.github.io/repo)
 2. [Certifications](https://roheetnarayanan.github.io/Certifications)
-3. [Resume]()
+3. [Resume](https://roheetnarayanan.in/cv/)
 4. [Tableau Visualizations](https://roheetnarayanan.github.io/tableau-viz)
 
 
