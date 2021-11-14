@@ -2,23 +2,17 @@
 ## Repositories
 
 
-1. ### [Lending Club Loan Prediction](https://github.com/roheetnarayanan/LendingClub-Loan-Prediction)
- A Model that classifies whether an individual will pay their loan balances in full or not. This is done using decision tree classifier and random forest using Python and Scikit-learn.
-
-
-2. ### [Titanic - Kaggle Competition](https://github.com/roheetnarayanan/Titanic)
+1. ### [Google Play Anaysis](https://github.com/roheetnarayanan/google-play-analysis) \ Obtained data about the apps in play store, cleaned and analzed them it address some basic yet vital questions.
+2. ### [Lending Club Loan Prediction](https://github.com/roheetnarayanan/LendingClub-Loan-Prediction)
+ A Model that classifies whether an individual will pay their loan balances in full or not. This is done through decision tree classifier and random forest using Python and Scikit-learn.
+3. ### [Titanic - Kaggle Competition](https://github.com/roheetnarayanan/Titanic)
  This is part of kaggle competition which involves predicting the survival of passengers in the sinking of titanic. The model used here logistic regression. 
-
-
-3. ### [Spam Classifier](https://github.com/roheetnarayanan/Spam)
+4. ### [Spam Classifier](https://github.com/roheetnarayanan/Spam)
    Used TF IDF in conjunction with Naive Bayes to classifiy a message into SPAM/HAM. The dataset is part of UCI Repository.
-
-4. ### [YELP Reviews - Sentimental Analysis](https://github.com/roheetnarayanan/Sentimental-Analysis-for-Yelp-Review)
+5.    ### [YELP Reviews - Sentimental Analysis](https://github.com/roheetnarayanan/Sentimental-Analysis-for-Yelp-Review)
 Classify the reviews rating into either of the two categories namely 1 star or 5 star.The dataset is obtained from Yelp Review Data Set from Kaggle.
+6. ### [Food Delivery Website-Front End](https://roheetnarayanan.in/Food-Website/)
+   A webiste that will allow customers to get an idea of what the food delivery company is about, in which cities they operate and the subscription plans they offer. The site is build using HTML, JS and JQuery. The website can be viewed [here](https://roheetnarayanan.in/Food-Website/)
+7.  ### [Markowitz-Optimization](https://github.com/roheetnarayanan/Markowitz-Optimization)
+   An Effective fromtier curve is generated for the portfolio consisting of SAP and BMW stocks from the year 2015-01-01, to find the optimal investments.   
 
-5. ### [Food Delivery Website-Front End](https://roheetnarayanan.in/Food-Website/)
-   A webiste that will allow customers to get an idea of what the food delivery company is about, in which cities they operate and the subscription plans they offer. The site is build using HTML, JS and JQuery. 
-   The website can be viewed [here](https://roheetnarayanan.in/Food-Website/)
-   
-5. ### [Markowitz-Optimization](https://github.com/roheetnarayanan/Markowitz-Optimization)
-   An Effective fromtier curve is generated for the portfolio consisting of SAP and BMW stocks from the year 2015-01-01, to find the optimal investments.
