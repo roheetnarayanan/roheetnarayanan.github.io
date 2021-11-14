@@ -2,13 +2,14 @@
 ## Repositories
 
 <ol>
-  <li>First item</li>
+  <li> ### [Google Play Anaysis](https://github.com/roheetnarayanan/google-play-analysis)</li>
+  Obtained data about the apps in play store, cleaned and analzed them to address some basic yet vital questions.<br />
   <li>Second item</li>
   <li>Third item</li>
   <li>Fourth item</li>
 </ol>
- ### [Google Play Anaysis](https://github.com/roheetnarayanan/google-play-analysis)<br /> 
-2. Obtained data about the apps in play store, cleaned and analzed them to address some basic yet vital questions.<br />
+
+2. 
 3. ### [Lending Club Loan Prediction](https://github.com/roheetnarayanan/LendingClub-Loan-Prediction)<br /> A Model that classifies whether an individual will pay their loan balances in full or not. This is done through decision tree classifier and random forest using Python and Scikit-learn.<br />
 4. ### [Titanic - Kaggle Competition](https://github.com/roheetnarayanan/Titanic)<br />  This is part of kaggle competition which involves predicting the survival of passengers in the sinking of titanic. The model used here logistic regression. <br />
 5. ### [Spam Classifier](https://github.com/roheetnarayanan/Spam)<br /> Used TF IDF in conjunction with Naive Bayes to classifiy a message into SPAM/HAM. The dataset is part of UCI Repository.<br />
