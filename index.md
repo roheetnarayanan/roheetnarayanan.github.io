@@ -13,7 +13,7 @@ I'm Roheet. I am a Data Engineering Graduate Student at Otto-von-Guericke Univer
 -  **Languages :**  `.py`, `.sql`,`.java`
 -  **Tools :**  Tableau, Oracle 11g, PostgrSQL, Jupyter, Git, AWS, Ms Excel.
 -  **Frameworks :**  Pandas, Numpy, Matplotlib, Sci-kit learn, Plotly, Seaborn, and Folium.  
--  **Interests :** Python Application Development, Data Mining and Visualization.
+-  **Interests :**  Data Mining, Machine Learning and Visualization.
 
 ## Education
 - M.Sc. Data and Knowledge Engineering 2021 - Present  
