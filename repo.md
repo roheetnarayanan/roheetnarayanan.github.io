@@ -9,7 +9,7 @@
    
 
 2. ### [Google Play Anaysis](https://github.com/roheetnarayanan/google-play-analysis)<br />
-  •	Obtained data about each app in the google play store, including the price, the number of installs, and ratings. Cleaned and analyzed them to address some basic yet vital questions. 
+  Obtained data about each app in the google play store, including the price, the number of installs, and ratings. Cleaned and analyzed them to address some basic yet vital questions. 
   
 
 2. ### [Lending Club Loan Prediction](https://github.com/roheetnarayanan/LendingClub-Loan-Prediction)<br /> 
