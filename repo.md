@@ -1,9 +1,17 @@
 
 ## Repositories
 
-1. ### [Google Play Anaysis](https://github.com/roheetnarayanan/google-play-analysis)<br />
+
+
+
+1. 1. ### [Recommendation System](https://github.com/roheetnarayanan/book-recommendations)<br />
+  Built a book recommendation system using NLP. The datasets are a set of books from "Charles Darwin". A TF-IDF Model was built using bad of words of the books which were tokenized and stemmed. Using the Tf-idf scores, a similarity matrix was create to find the most similar books to "Descent of Man". The recommendations are also visualized using a cluster map(based on thier similiarities).
+   
+
+2. ### [Google Play Anaysis](https://github.com/roheetnarayanan/google-play-analysis)<br />
   Obtained data about the apps in play store, cleaned and analzed them to address some basic yet vital questions.
   
+
 2. ### [Lending Club Loan Prediction](https://github.com/roheetnarayanan/LendingClub-Loan-Prediction)<br /> 
  A Model that classifies whether an individual will pay their loan balances in full or not. This is done through decision tree classifier and random forest using Python and Scikit-learn.
  
