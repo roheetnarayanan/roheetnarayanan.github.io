@@ -18,10 +18,10 @@
 3. ### [Titanic - Kaggle Competition](https://github.com/roheetnarayanan/Titanic)
  This is part of kaggle competition which involves predicting the survival of passengers in the sinking of titanic. The model used here logistic regression. 
  
-4. ### [Spam Classifier](https://github.com/roheetnarayanan/Spam)
+4. ### [Spam Classifier](https://github.com/roheetnarayanan/Spam-Classifier)
  Used TF IDF in conjunction with Naive Bayes to classifiy a message into SPAM/HAM. The dataset is part of UCI Repository.
 
-5. ### [YELP Reviews - Sentimental Analysis](https://github.com/roheetnarayanan/Sentimental-Analysis-for-Yelp-Review)
+5. ### [YELP Reviews - Sentimental Analysis](https://github.com/roheetnarayanan/yelp-analysis)
  Classify the reviews rating into either of the two categories namely 1 star or 5 star.The dataset is obtained from Yelp Review Data Set from Kaggle.
  
 6. ### [Food Delivery Website-Front End](https://roheetnarayanan.in/Food-Website/)
