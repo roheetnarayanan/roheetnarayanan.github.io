@@ -16,9 +16,9 @@ I'm Roheet. I am a Data Engineering Graduate Student at Otto-von-Guericke Univer
 -  **Interests :**  Data Mining, Machine Learning and Visualization.
 
 ## Education
-- M.Sc. Data and Knowledge Engineering 2021 - Present  
+- M.Sc. Data and Knowledge Engineering [2021 - Present]  
   Otto-Von-Guericke Universität, Magdeburg 
-- B.E Computer Science and Engineering 2015-2019  
+- B.E Computer Science and Engineering [2015-2019]  
   Anna University, Chennai, India
   
   
