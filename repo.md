@@ -16,7 +16,7 @@
  A Model that classifies whether an individual will pay their loan balances in full or not. This is done through decision tree classifier and random forest using Python and Scikit-learn.
  
 4. ### [Titanic - Kaggle Competition](https://github.com/roheetnarayanan/Titanic)
- This is part of kaggle competition which involves predicting the survival of passengers in the sinking of titanic. The model used here logistic regression. 
+ This is part of kaggle competition which involves predicting the survival of passengers in the sinking of titanic. The model used here is logistic regression. 
  
 5. ### [Spam Classifier](https://github.com/roheetnarayanan/Spam-Classifier)
  Used TF IDF in conjunction with Naive Bayes to classifiy a message into SPAM/HAM. The dataset is part of UCI Repository.
