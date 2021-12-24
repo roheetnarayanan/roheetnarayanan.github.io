@@ -1,9 +1,0 @@
-theme: jekyll-theme-slate
-title: Roheet Narayanan Rajendran
-baseurl: /roheetnarayanan.github.io
-github:
-  repository_url: https://github.com/roheetnarayanan
-  
-layout: page
-permalink: https://roheetnarayanan.github.io/Certifications/
-markdown: kramdown
